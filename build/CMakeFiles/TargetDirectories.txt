@@ -1,0 +1,4 @@
+F:/code/projects/17_freertosDev/projectTemplate/build/CMakeFiles/TEMPLATE.elf.dir
+F:/code/projects/17_freertosDev/projectTemplate/build/CMakeFiles/clean_all.dir
+F:/code/projects/17_freertosDev/projectTemplate/build/CMakeFiles/edit_cache.dir
+F:/code/projects/17_freertosDev/projectTemplate/build/CMakeFiles/rebuild_cache.dir
